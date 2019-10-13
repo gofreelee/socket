@@ -1,0 +1,1 @@
+测试send函数是堵塞的,当sendbuffer不够时,会阻塞.
